@@ -109,12 +109,12 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/valent%C3%ADn-pagura-b86abb27b/"
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ <a href="https://www.linkedin.com/in/valent%C3%ADn-pagura-b86abb27b/">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
   
-<a href="paguravalentin@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:paguravalentin@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="paguravalentin@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 
@@ -125,6 +125,6 @@
 
 ------
 
-Credit: [Kiran1689](https://github.com/Kiran1689)
 
 Last Edited on: 29/11/2023
+
