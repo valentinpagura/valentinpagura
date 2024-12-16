@@ -21,13 +21,14 @@
 
 ---
 <br />
-
+    
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs, Fʀᴀᴍᴇᴡᴏʀᴋs, ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,docker,postgres,mysql,git,vscode,intellij,linux,python,flask,django&perline=10" />
 </p>
 <br />
+
 
 
 <!--Trophies Section-->   
