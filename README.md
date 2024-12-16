@@ -1,7 +1,6 @@
 <!--Banner-->
 ![Valentin Banner Image](https://github.com/ValentinPagura/valentin_banner/blob/main/banner.png)
 
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Valentin! 
 *Developer & Backend Enthusiast*
@@ -17,8 +16,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
->
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 </p>
 
 ---
@@ -112,10 +110,13 @@
 <a href="mailto:paguravalentin@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="paguravalentin@gmail.com" style="margin-bottom: 5px;" />
 </a>
-
+</div>
 
 <!--Footer--> 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
