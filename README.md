@@ -1,9 +1,9 @@
 <!--Banner-->
 ![Valentin Banner Image](https://github.com/ValentinPagura/valentin_banner/blob/main/banner.png)
 
-<!--Night Owl image-->
+<!--Night Owl image replaced with Coding GIF-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 <!--Header Name-->
@@ -123,9 +123,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-------
-
-
-Last Edited on: 16/12/2024
 
 
