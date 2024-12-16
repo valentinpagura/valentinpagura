@@ -70,8 +70,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/ValentinPagura/Persistencia">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinPagura&repo=Persistencia&theme=nightowl&show_owner=true" alt="Latest Project" />
         </a>
       </p>
     </td>
