@@ -1,14 +1,10 @@
 <!--Banner-->
 ![Valentin Banner Image](https://github.com/ValentinPagura/valentin_banner/blob/main/banner.png)
 
-<!--Night Owl image replaced with Coding Guy GIF-->
-<div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/xUOwGht9XNdUEk5isY/giphy.gif">
-</div>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Valentin! 
-*Java Developer & Backend Enthusiast*
+*Developer & Backend Enthusiast*
 <br /> 
 
 <!--Start Intro-->               
