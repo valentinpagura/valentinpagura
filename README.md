@@ -1,9 +1,9 @@
 <!--Banner-->
 ![Valentin Banner Image](https://github.com/ValentinPagura/valentin_banner/blob/main/banner.png)
 
-<!--Night Owl image replaced with Coding GIF-->
+<!--Night Owl image replaced with Coding Guy GIF-->
 <div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" width="40%" src="https://media.giphy.com/media/xUOwGht9XNdUEk5isY/giphy.gif">
 </div>
 
 <!--Header Name-->
