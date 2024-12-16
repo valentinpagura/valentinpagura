@@ -21,7 +21,8 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ValentinPagura&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ValentinPagura" style="padding-right:20px;" />
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+>
 </p>
 
 ---
